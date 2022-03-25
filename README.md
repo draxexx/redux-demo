@@ -11,3 +11,7 @@
 ### To create `package.json`:
 
 `npm init`
+
+### To install `redux`
+
+`npm install redux`
